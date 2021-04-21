@@ -15,7 +15,7 @@ database administration and development and implementation of business intellige
   <img align="left" alt="Jorge Enrique Rubio Ruiz Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-<a target="_blank" href="https://twitter.com/jrubiotecno/">
+<a target="_blank" href="https://twitter.com/developer_col/">
   <img align="left" alt="Jorge Enrique Rubio Ruiz Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
