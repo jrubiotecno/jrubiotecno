@@ -1,9 +1,21 @@
-👋 Hi, I’m @jrubiotecno -- rubioruizjorge@gmail.com. Bogota, Colombia
+### About me🧑:
 
-I have knowledge of python, php, pentaho, sql and others.
+Systems engineer with 14 years of experience in renowned companies and multinational telecommunications companies,<br/>
+specialist in technology management, software analysis and development, data mining,<br/>
+database administration and development and implementation of business intelligence solutions.<br/>
 
+---
 
-<!---
-jrubiotecno/jrubiotecno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Github Activity ✔:
+
+<a href="https://github.com/jrubiotecno">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrubiotecno" />
+  </a>
+
+<a href="https://github.com/jrubiotecno">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrubiotecno&show_icons=true&line_height=27" alt="jrubiotecno github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
